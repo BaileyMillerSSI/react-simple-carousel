@@ -4,7 +4,7 @@ import Carousel from './Carousel';
 
 const App = () => (
   <React.Fragment>
-    <h1>Carousel Demo</h1>
+    <h1>Simple Carousel Demo</h1>
     <Carousel>
       <BackgroundBox />
       <BackgroundBox />
