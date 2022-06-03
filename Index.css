@@ -1,0 +1,9 @@
+* {
+  box-sizing: border-box;
+  margin-right: 0px;
+  margin-left: 0px;
+}
+
+body {
+  overflow-y: hidden;
+}
